@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  background-color: #ffffff33;
+  justify-content: space-between;
+  padding: 7px 26px;
+}
+
+.points-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 15%;
+}
+
+.logo {
+  width: 60px;
+}
+
+.gameName {
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+
+.score {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 19px;
+}
